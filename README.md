@@ -1,7 +1,7 @@
 # Deploying-Flask-To-OpenShift 
 Deploying a Flask App To OpenShift Tutorial 📝 
 
-* [Youtube Demo 待新增]()   
+* [Youtube Demo](https://youtu.be/PlomZkYcdYU)   
 
 今天教大家如何佈署 Flask App 到 [OpenShift](https://www.openshift.com/) 
 
